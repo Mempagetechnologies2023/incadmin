@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048238326855",
+    "project_id": "congressrahul-8c6e3",
+    "storage_bucket": "congressrahul-8c6e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048238326855:android:cf58b4613def4291849d62",
+        "android_client_info": {
+          "package_name": "com.example.congress_polling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6tTfv1PEG0TC3Vl4W4YOjQOxC9S50rq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
